@@ -177,7 +177,7 @@ node test-socket.js
 
 ## 📄 Licence
 
-Ce projet est développé dans le cadre d'un PFE (Projet de Fin d'Études).
+Ce projet est développé dans le cadre d'un PFA.
 
 ## 👨‍💻 Auteur
 
