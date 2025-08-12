@@ -56,50 +56,6 @@ cd backend
 npm install
 ```
 
-### 3. Configuration des variables d'environnement
-Copiez le fichier `env.example` vers `.env` et configurez vos variables :
-```bash
-cp env.example .env
-```
-
-Modifiez le fichier `.env` avec vos propres valeurs :
-```env
-DB_HOST=localhost
-DB_PORT=27017
-DB_NAME=your_database_name
-DB_USER=your_username
-DB_PASSWORD=your_password
-PORT=5000
-JWT_SECRET=your_jwt_secret_key_here
-# ... autres variables
-```
-
-### 4. Configuration Frontend
-```bash
-cd ../frontend
-npm install
-```
-
-### 5. Lancer l'application
-
-#### Backend
-```bash
-cd backend
-npm start
-# ou pour le développement
-npm run dev
-```
-
-#### Frontend
-```bash
-cd frontend
-npm start
-```
-
-L'application sera accessible sur :
-- Frontend : http://localhost:3000
-- Backend : http://localhost:5000
-
 ## 🗄️ Base de données
 
 ### Scripts de configuration
