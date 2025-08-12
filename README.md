@@ -40,8 +40,8 @@ Une plateforme complète de gestion de formations avec système de chat en temps
 ### 1. Cloner le repository
 ```bash
 git clone <votre-repo-url>
-cd pfe_final_khalil
-```
+cd pfe_final
+
 
 ### 2. Configuration Backend
 ```bash
