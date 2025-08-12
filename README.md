@@ -7,7 +7,7 @@ Voici un exemple de capture d’écran du tableau de bord Admin :
 
 ---
 
-D’autres captures d’écran sont disponibles dans le dossier `screenshots`.
+## D’autres captures d’écran sont disponibles dans le dossier `screenshots`.
 
 Une plateforme complète de gestion de formations avec système de chat en temps réel, développée avec Node.js, Express, MongoDB et React.
 
