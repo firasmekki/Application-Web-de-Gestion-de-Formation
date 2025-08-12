@@ -1,12 +1,13 @@
 # Plateforme de Formation - PFA
-## Interface Admin - Tableaux de bord
+## Capture d’écran - Interface Admin
 
-Voici quelques captures d’écran du tableau de bord Admin :
+Voici un exemple de capture d’écran du tableau de bord Admin :
 
-![Tableau de bord 1](./screenshots/admin/localhost_3000_admin_tableau-de-bord.png)
-![Tableau de bord 2](./screenshots/admin/localhost_3000_admin_tableau-de-bord (1).png)
-![Tableau de bord 3](./screenshots/admin/localhost_3000_admin_tableau-de-bord (2).png)
+![Tableau de bord Admin](./screenshots/admin/localhost_3000_admin_tableau-de-bord.png)
 
+---
+
+D’autres captures d’écran sont disponibles dans le dossier `screenshots`.
 
 Une plateforme complète de gestion de formations avec système de chat en temps réel, développée avec Node.js, Express, MongoDB et React.
 
