@@ -1,4 +1,4 @@
-# Plateforme de Formation - PFE
+# Plateforme de Formation - PFA
 
 Une plateforme complète de gestion de formations avec système de chat en temps réel, développée avec Node.js, Express, MongoDB et React.
 
