@@ -181,7 +181,7 @@ Ce projet est développé dans le cadre d'un PFE (Projet de Fin d'Études).
 
 ## 👨‍💻 Auteur
 
-**Khalil** - Développeur Full Stack
+**Firas** - Développeur Full Stack
 
 ---
 
