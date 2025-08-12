@@ -1,4 +1,12 @@
 # Plateforme de Formation - PFA
+## Interface Admin - Tableaux de bord
+
+Voici quelques captures d’écran du tableau de bord Admin :
+
+![Tableau de bord 1](./screenshots/admin/localhost_3000_admin_tableau-de-bord.png)
+![Tableau de bord 2](./screenshots/admin/localhost_3000_admin_tableau-de-bord (1).png)
+![Tableau de bord 3](./screenshots/admin/localhost_3000_admin_tableau-de-bord (2).png)
+
 
 Une plateforme complète de gestion de formations avec système de chat en temps réel, développée avec Node.js, Express, MongoDB et React.
 
