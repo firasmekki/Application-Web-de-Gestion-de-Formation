@@ -184,5 +184,3 @@ Ce projet est développé dans le cadre d'un PFE (Projet de Fin d'Études).
 **Firas** - Développeur Full Stack
 
 ---
-
-**Note** : N'oubliez pas de configurer correctement vos variables d'environnement avant de lancer l'application ! 
